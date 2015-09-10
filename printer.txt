@@ -1,1 +1,0 @@
-Available Profiles:  ssid:Maheshaka Network_Key:rajesh@123 Security_Type:WPA2
